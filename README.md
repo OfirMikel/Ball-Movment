@@ -28,19 +28,14 @@ You can customize the behavior and appearance of the particles and walls by modi
 
 - **Particle properties:** You can modify particle size, color, and velocity in the `Particle` class.
 
-- **Wall properties:** You can change the position, length, and angle of the 45-degree angle walls in the `Wall` class.
+- **Forces properties:** You can modify the force being applied on the balls.
 
 ## Contributing
 
 Contributions to this project are welcome. If you have ideas for improvements or new features, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
-
-- This project was inspired by the study of particle physics and collision behavior.
+- This project was inspired by  social media and the study of particle physics and collision behavior.
 - Special thanks to the Processing community for their valuable resources and support.
 
 Happy Coding!
