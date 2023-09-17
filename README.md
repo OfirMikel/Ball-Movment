@@ -2,7 +2,7 @@
 
 This Processing project simulates particle movement within a bounded environment and explores the interesting shapes that are created when balls collide with 45-degree angle walls.
 
-<img src="example.mp4" alt="Example Video" />
+<img src="example.gif" alt="Example Video" />
 
 ## Getting Started
 
