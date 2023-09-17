@@ -1,6 +1,6 @@
 # Particle Collision and Shape Generation in Processing
 
-<h2>This Processing project simulates particle movement within a bounded environment and explores the interesting shapes that are created when balls collide with 45-degree angle walls.</h2>
+<h3>This Processing project simulates particle movement within a bounded environment and explores the interesting shapes that are created when balls collide with 45-degree angle walls.</h3>
 <br>
 <img align="center" src="example.gif" width= "100%" alt="Example Video" />
 
